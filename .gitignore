@@ -11,7 +11,10 @@
 # production
 /build
 
+
+
 # misc
+githubToken.txt
 .DS_Store
 .env.local
 .env.development.local

@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>Tolga Sahiner</h1>
       </header>
     </div>
   );
